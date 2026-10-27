@@ -1,0 +1,17 @@
+# 설치 파일 / 대용량 바이너리
+*.msi
+*.exe
+*.zip
+
+# Node
+node_modules/
+.env
+.env.*
+
+# Vercel
+.vercel
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
